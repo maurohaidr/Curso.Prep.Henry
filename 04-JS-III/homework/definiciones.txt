@@ -1,0 +1,2 @@
+Array:
+Un array es un conjunto de datos de cualquier tipo, indexados de 0 a N. 

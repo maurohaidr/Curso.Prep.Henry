@@ -1,0 +1,11 @@
+
+* `for`
+'for' es un comando utilizado para crear repeticiones de un bloque de código. 
+Estas repeticiones continuarán hasta que se cumpla la condición preestablecida.
+
+* `&&`, `||`, `!`
+Son operadores lógicos:
+&& = and = y
+|| = or = o
+! = not = negacion
+Se utilizan para combinar expresiones y dar como resultado un valor booleano. 

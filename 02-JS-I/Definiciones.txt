@@ -1,0 +1,19 @@
+	* Variables
+Es un contenedor al que se le puede dar un valor, ya sea de texto, numérico, booleano, arreglo, etc. 
+Puede operarse sobre el contenido de la variable para modificarla en cualquier momento. 
+
+	* Strings
+Es una cadena de texto. 
+
+	* Funciones (argumentos, `return`)
+Una función es un bloque de código que puede ser invocado usando su nombre. Al hacerlo, el programa 
+corre ese bloque de código sin necesidad de escribirlo nuevamente.
+ Los argumentos son datos que pueden enviarse a las funciones, y ser utilizados dentro de éstas.
+ 'Return' es un comando utilizado para devolver un valor desde la función, luego de hacerlo, esta finalizará.
+
+	* Declaraciones `if`
+El comando 'if' se utiliza para dar una condición que de ser verdadera, ejecutará un código a continuación. 
+
+	* Valores booleanos (`true`, `false`)
+Verdadero y falso en inglés. 
+
